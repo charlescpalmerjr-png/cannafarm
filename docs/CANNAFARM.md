@@ -13,13 +13,13 @@
 ## 3. The Growing Model
 - **Sources & Variables:** 
   - **Rutgers NJAES (Hemp/Agriculture):** *Commercial Hemp Production* (Read: Oct 21, 2026; https://njaes.rutgers.edu/hemp/). Used for general soil and nutrient baseline logic.
-  - **Supplemental (VPD & Light Cycles):** Replaced previous link with *Frontiers in Plant Science: Cannabis Indoor Growing Conditions* (Read: Oct 21, 2026; https://www.frontiersin.org/articles/10.3389/fpls.2021.713016/full). Confirmed it states 18/6 light cycle for vegetative state, 12/12 for flowering, and provides exact Vapor Pressure Deficit (VPD) ranges.
+  - **Supplemental (VPD & Light Cycles):** Eichhorn Bilodeau et al. (2019), "An Update on Plant Photobiology and Implications for Cannabis Production," *Frontiers in Plant Science*, https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2019.00296/pdf. Supports 18/6 vegetative, about 12 h for flowering, 25–30 °C and 55–60% RH. Gives no VPD ranges, so calculate VPD in-game from temperature and RH with the Tetens equation and label it as calculated.
   - **Compliance (N.J.A.C. 17:30):** *Personal Use Cannabis Rules* (Read: Oct 21, 2026; https://www.nj.gov/cannabis/documents/rules/NJAC%201730%20Personal%20Use%20Cannabis.pdf). Subchapter 9 (N.J.A.C. 17:30-9.13) explicitly requires utilizing the inventory tracking system designated by the Commission for all seed-to-sale tracking.
 - **Mechanics:** Players manage water, light toggles, and VPD meters. Stresses extend timers; perfect care yields higher quality grades.
 
 ## 4. The NJ Layer & Legal Compliance
 - **Core Legal Fact:** Home cultivation is illegal. New Jersey grades unlawful manufacturing/growing based on plant count.
-- **Statute & Thresholds:** Verified per the NJ Attorney General summary of P.L.2021 c.19 and the text of N.J.S.A. 2C:35-5 from the NJ Legislature: 50 or more plants is a crime of the first degree; 10 to 49 plants is a crime of the second degree. (Read: Oct 21, 2026; https://lis.njleg.state.nj.us/).
+- **Statute & Thresholds:** Verified per the NJ Attorney General summary of P.L.2021 c.19 (https://www.nj.gov/oag/dcj/Marijuana%20Decriminalization%20A1897.PDF) and N.J.S.A. 2C:35-5 from the NJ Legislature: 50 or more plants is a crime of the first degree; 10 to 49 plants is a crime of the second degree.
 - **In-Game Disclaimer (Exact wording):** "You are playing a licensed operator. Unlicensed home cultivation is illegal in New Jersey."
 - **Data Source:** NJ Dispensary Hub CC BY 4.0 dataset. Snapshot used for town opt-ins and Impact Zones.
 

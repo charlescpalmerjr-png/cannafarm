@@ -14,7 +14,9 @@
 - **Sources & Variables:** 
   - **Rutgers NJAES (Hemp/Agriculture):** *Commercial Hemp Production* (Read: Oct 21, 2026; https://njaes.rutgers.edu/hemp/). Used for general soil and nutrient baseline logic.
   - **Supplemental (VPD & Light Cycles):** Eichhorn Bilodeau et al. (2019), "An Update on Plant Photobiology and Implications for Cannabis Production," *Frontiers in Plant Science*, https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2019.00296/pdf. Supports 18/6 vegetative, about 12 h for flowering, 25–30 °C and 55–60% RH. Gives no VPD ranges, so calculate VPD in-game from temperature and RH with the Tetens equation and label it as calculated.
-  - **Compliance (N.J.A.C. 17:30):** *Personal Use Cannabis Rules* (Read: Oct 21, 2026; https://www.nj.gov/cannabis/documents/rules/NJAC%201730%20Personal%20Use%20Cannabis.pdf). Subchapter 9 (N.J.A.C. 17:30-9.13) explicitly requires utilizing the inventory tracking system designated by the Commission for all seed-to-sale tracking.
+  - **Compliance (N.J.A.C. 17:30):**
+  - Subchapter 19 (N.J.A.C. 17:30-19.3): Laboratory testing requirements for microbial, pesticide, and heavy metals. Care history determines pass/fail. Failed batches must be destroyed.
+  *Personal Use Cannabis Rules* (Read: Oct 21, 2026; https://www.nj.gov/cannabis/documents/rules/NJAC%201730%20Personal%20Use%20Cannabis.pdf). Subchapter 9 (N.J.A.C. 17:30-9.13) explicitly requires utilizing the inventory tracking system designated by the Commission for all seed-to-sale tracking.
 - **Mechanics:** Players manage water, light toggles, and VPD meters. Stresses extend timers; perfect care yields higher quality grades.
 
 ## 4. The NJ Layer & Legal Compliance

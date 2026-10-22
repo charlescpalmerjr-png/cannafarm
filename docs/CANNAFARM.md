@@ -27,9 +27,12 @@
 - **Soft Currency:** Capital ($C).
 - **Start Capital:** $C 5,000.
 - **Costs & Income:** 
-  - Class 1 License Fee: $C 1,000 - Seed (per plot):$C 50
-  - Water/Power overhead (per day tick): $C 10 - Facility Upgrade (Tier 2 lights):$C 1,500
-  - Wholesale Class 1 Yield (Standard Grade): $C 350 - Wholesale Class 1 Yield (Top Grade):$C 600
+  - Class 1 License Fee: $C 1,000
+  - Seed (per plot):$C 50
+  - Water/Power overhead (per day tick): $C 10
+  - Facility Upgrade (Tier 2 lights):$C 1,500
+  - Wholesale Class 1 Yield (Standard Grade): $C 350
+  - Wholesale Class 1 Yield (Top Grade):$C 600
 - **Progression Curve:**
   - **Day 1:** Obtain Class 1 Cultivator license, plant first seeds, manage seedling VPD, complete first fast-timer harvest.
   - **Day 7:** Scale to multiple plots, unlock Class 2 Manufacturer license (turns raw harvests into pre-rolls/vapes for higher wholesale margin).
